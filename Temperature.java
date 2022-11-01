@@ -1,5 +1,3 @@
-package myExperiment;
-
 import java.util.*;
 
 public class Temperature {
@@ -16,7 +14,7 @@ public class Temperature {
 
 		System.out.print("Choose convertion : ");
 		int choose = in.nextInt();
-		
+	
 		if (choose == 1) {
 			myKelvin();
 		}
@@ -25,7 +23,8 @@ public class Temperature {
 		}
 		else
 			myFahrenheit();
-		
+		}
+	
 		
 	}
 	static double myKelvin() {
