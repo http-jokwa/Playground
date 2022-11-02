@@ -5,7 +5,7 @@ public class Circle {
 		// TODO Auto-generated method stub
 		Scanner in = new Scanner(System.in);
 		
-		double pi = Math.PI();
+		double pi = Math.PI;
 		
 		System.out.println("Press 1 for Circumference");
 		System.out.println("Press 2 for Diameter");
