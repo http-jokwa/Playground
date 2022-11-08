@@ -1,5 +1,5 @@
-package myExperiment;
-import java.util.*;
+
+import java.util.Scanner;
 public class Three_Program {
 
 	static Scanner input = new Scanner(System.in);
