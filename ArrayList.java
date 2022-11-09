@@ -2,8 +2,7 @@ package example;
 
 import java.util.ArrayList;
 
-public class arrayList {
-	
+public class ArrayList {
 	
 	public static void main(String[] args) {
 	
@@ -46,9 +45,5 @@ public class arrayList {
 		names.clear();
 		System.out.println(names);
 		
-		
-		
 		}
-		
-
 }
