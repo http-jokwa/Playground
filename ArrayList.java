@@ -12,7 +12,7 @@ public class ArrayList {
 		 * 
 		 * INSERT = identifier.add(value depends on your array list data type).
 		 * DELETE = identifier.remove(index) remove specific element
-		 * 		  = identifier.clear() clear the array list
+		 *        = identifier.clear() clear the array list
 		 * UPDATE = identifier.set(index, value) replace the element
 		 * 
 		 * 
@@ -35,11 +35,9 @@ public class ArrayList {
 		names.set(2, "Jokwa"); //The Joswa will become Jokwa
 		System.out.println(names.get(2)); //output : Jokwa
 		
-		
 		//Remove specific elements
 		names.remove(0);
 		System.out.println(names.get(0)); //we remove the index 0 which is Joschua then Chua will become the index 0
-		
 		
 		//Clear the array
 		names.clear();
