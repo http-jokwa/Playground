@@ -174,5 +174,4 @@ public class guiExamp {
 		frame.add(msg);
 		
 	}
-
 }
